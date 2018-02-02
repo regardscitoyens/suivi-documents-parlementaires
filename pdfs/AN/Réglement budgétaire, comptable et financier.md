@@ -17,7 +17,7 @@
 ** **\
 ** **\
 ** **\
-**Edition 2016 **\
+**Edition 2018 **\
 ** **\
 ** **\
 
@@ -76,6 +76,10 @@ Arrêté n° 171/XIII du Bureau de l'Assemblée nationale du 22 février 2012 \
 Arrêté n° 83/XIV du Bureau de l'Assemblée nationale du 18 février 2015 \
  \
 Arrêté n° 123/XIV du Bureau de l'Assemblée nationale du 13 juillet 2016 \
+ \
+Arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017 \
+ \
+Arrêté n° 18/XV du Bureau de l'Assemblée nationale du 24 janvier 2018 \
 
 ------------------------------------------------------------------------
 
@@ -137,7 +141,7 @@ Article 21 :  Paiement aux ayants droit de succession \...\...\...\...\...\...\.
 ***Section V : Exécution des recettes*** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 15 \
 Article 22 :  Autorité qualifiée pour l\'encaissement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 15 \
 Article 23 : \
-Émission et traitement des titres de recettes \...\...\...\...\...\...\...\...\...\...\...\...\...\... 15 \
+Émission et traitement des titres de recettes \...\...\...\...\...\...\...\...\...\...\...\...\...\... 16 \
 Article 24 : \
 Vente des biens réformés \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 16 \
 Article 25 :  Gestion de la dotation, des disponibilités et des immobilisations \
@@ -210,13 +214,9 @@ Article 48 : \
 **Titre III : Contributions aux frais de mandat et de secrétariat des députés** \..... 23** **\
 ***Section I : Frais de mandat des députés***\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 23 \
 Article 56 : \
- Objet, période de versement et reversement de l\'indemnité \
- \
- représentative de frais de mandat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 23 \
+ Liste, modalités de prise en charge, contrôle des frais de mandat \...\..... 23 \
 Article 57 : \
- Montant et modalités de versement de l\'indemnité représentative \
- \
- de frais de mandat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 23 \
+ Régime juridique de l'avance \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 23 \
 ***Section II : Crédit pour la rémunération des collaborateurs*** \...\...\...\...\...\...\...\...\...\...\...\...\.... 24 \
 Article 58 : \
  Objet du crédit pour la rémunération des collaborateurs \...\...\...\...\...\...\..... 24 \
@@ -256,9 +256,9 @@ Article 73 :  Cessibilité et saisissabilité de la pension de retraite\...\...\
 Article 74 :  Application du code des marchés publics \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 28 \
 Article 75 :  Transmission des actes et documents au Trésorier \...\...\...\...\...\...\...\...\...\...\... 28 \
  \
-**SIXIÈME PARTIE : DISPOSITIONS DIVERSES** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 28** **\
-**Titre premier : Recouvrement des créances** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 28 \
-Article 76 :  Recouvrement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 28 \
+**SIXIÈME PARTIE : DISPOSITIONS DIVERSES** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 29** **\
+**Titre premier : Recouvrement des créances** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 29 \
+Article 76 :  Recouvrement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 29 \
 Article 77 :  Remise gracieuse \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 29 \
 Article 78 :  Constatation de l\'irrecouvrabilité \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 29 \
 Article 79 :  Prescription \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 29 \
@@ -362,7 +362,8 @@ fixée par l\'article 7 de l\'ordonnance n° 58-1100 du 17 novembre 1958 précit
 **Signification et portée de l\'autorisation budgétaire **\
 1. Les crédits sont limitatifs, à l\'exception de ceux relatifs aux indemnités des \
 députés, aux rémunérations de personnel, aux pensions, aux retraites, aux \
-prestations familiales et aux charges sociales y afférentes qui sont évaluatifs (2). \
+prestations familiales et aux charges sociales y afférentes et aux frais de mandat \
+des députés qui sont évaluatifs (2). \
  \
 2. Les sommes inscrites aux chapitres de recettes sont évaluatives. \
  \
@@ -382,7 +383,8 @@ mensuel des consommations budgétaires (4). \
                              \
 (1) Alinéa modifié par l'arrêté n° 21/XIII du Bureau de l'Assemblée nationale du 19 décembre 2007 et par l'arrêté \
 n° 171/XIII du Bureau de l'Assemblée nationale du 22 février 2012. \
-(2) Alinéa modifié par l'arrêté n° 21/XIII du Bureau de l'Assemblée nationale du 19 décembre 2007. \
+(2) Alinéa modifié par l'arrêté n° 21/XIII du Bureau de l'Assemblée nationale du 19 décembre 2007 et par l'arrêté \
+n° 18/XN du Bureau de l'Assemblée nationale du 24 janvier 2018. \
 (3) Alinéa modifié par l'arrêté n° 171/XIII du Bureau de l'Assemblée nationale du 22 février 2012. \
 (4) Alinéa modifié par l'arrêté n° 21/XIII du Bureau de l'Assemblée nationale du 19 décembre 2007. \
 
@@ -995,71 +997,60 @@ peuvent bénéficier, à l'issue de leur mandat, d'une garantie de ressources. \
  \
 ** \
 Titre III : Contributions aux frais de mandat et de secrétariat des députés **\
-***Section I : Indemnité représentative de frais de mandat ***\
-**Article 56 :  **\
-**Objet, période de versement et reversement de l\'indemnité **\
-** **\
-**représentative de frais de mandat **\
-1. L\'indemnité représentative de frais de mandat a pour objet de couvrir : \
+***Section I : Frais de mandat des députés ***(4)*** ***\
+**Article 56 :  Liste, modalités de prise en charge, contrôle des frais de mandat **\
+1. En application de l'article 4 *sexies* de l'ordonnance n° 58-100 du \
+17 novembre 1958 relative au fonctionnement des assemblées parlementaires, \
+l'Arrêté du Bureau n° 12/XV détermine la liste, les modalités de prise en charge et \
+de contrôle des frais de mandat des députés. \
  \
- la rémunération brute des collaborateurs au-delà du crédit défini à l\'article 58 et \
-au premier alinéa de l'article 60 ainsi que certaines charges obligatoires de \
-nature sociale ou fiscale liées à l\'emploi des collaborateurs, (4) \
- l\'ensemble des frais afférents à l\'exercice du mandat parlementaire qui ne sont \
-pas directement pris en charge ou remboursés par l\'Assemblée nationale. \
+2. Sont directement imputées sur l'avance mensuel e visée par l'arrêté du Bureau \
+mentionné à l'article précédent : \
  \
-2. Le droit à l\'indemnité représentative de frais de mandat est, pour chaque député, \
-ouvert en même temps que le droit à l\'indemnité parlementaire et pour la durée de \
+- la rémunération brute des col aborateurs au-delà du crédit défini à l'article 58 et \
+au premier alinéa de l'article 60, lorsque la gestion du crédit pour la rémunération \
+des collaborateurs fait l'objet d'un mandat donné par le député à un service de \
+l'Assemblée nationale, dans les conditions prévues à l'article 61, \
+ \
+- certaines charges obligatoires de nature sociale ou fiscale liées à l'emploi des \
+collaborateurs, \
+- les cotisations aux groupes parlementaires. \
+- les retenues liées au remboursement des prestations servies ou des prêts \
+accordés par l'Assemblée nationale au député dans le cadre de l'exercice de son \
+mandat. » (5). \
+ \
+**Article 57 :  Régime juridique de l'avance **(6)** **\
+1. Le droit à l'avance mensuelle visée par ledit arrêté est, pour chaque député, \
+ouvert en même temps que le droit à l'indemnité parlementaire et pour la durée de \
 son mandat. \
  \
-3. Le montant non utilisé de l'indemnité représentative de frais de mandat par le \
-député est reversé à l'Assemblée nationale à la fin de son mandat (5). \
+2. L'avance est incessible et insaisissable. \
  \
-**Article 57 :  **\
-**Montant et modalités de versement de l\'indemnité représentative **\
-** **\
-**de frais de mandat **\
-1. L\'indemnité représentative de frais de mandat est forfaitaire. Elle est liquidée \
-mensuellement sur la base d\'un montant déterminé par le Bureau et revalorisé en \
-fonction de l\'évolution de la valeur du point d\'indice de la fonction publique. \
- \
-2. Sont imputés sur cette indemnité les frais de mandat suivants : \
- les charges de personnel visées au deuxième alinéa du 1 de l'article 56 lorsque \
-la gestion du crédit pour la rémunération des collaborateurs fait l'objet d'un \
-mandat donné par le député à un service de l'Assemblée nationale ; \
- les cotisations aux groupes ; \
- les retenues liées au remboursement des prestations servies ou des prêts \
-accordés par l'Assemblée nationale au député dans le cadre de l'exercice de \
-son mandat. \
+3. Son versement est interrompu pendant le délai d'option prévu à l'article LO 152 du \
+code électoral lorsque la nomination de membre du Conseil constitutionnel est \
+intervenue avant le début du mandat et lorsque le député se trouve dans l'une des \
+situations visées aux 2, 3 ou 4 de l'article 43. \
                              \
 (1 & 2) Les sections I et II de ce titre comportant les articles 48 à 53 ont été abrogées par l'arrêté n° 171/XIII du Bureau \
 de l'Assemblée nationale du 22 février 2012. L'article 51 et la section III de ce titre ont été abrogés par l'arrêté \
 n° 45/XII du Bureau de l'Assemblée nationale du 8 octobre 2003. \
 (3) La rédaction de cet article résulte de l'arrêté n° 171/XIII du Bureau de l'Assemblée nationale du 22 février 2012. \
-(4) Alinéa modifié par l'arrêté n° 92/XII du Bureau de l'Assemblée nationale du 15 juin 2005. \
-(5) Alinéa introduit par l'arrêté n° 83/XIV du Bureau de l'Assemblée nationale du 18 février 2015. \
+(4) Cet intitulé résulte de l'arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017. \
+(5) La rédaction de cet article résulte de l'arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017, \
+modifiée par l'arrêté n° 18/XV du Bureau de l'Assemblée nationale du 24 janvier 2018. \
+(6) Cet intitulé résulte de l'arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017. \
 
 ------------------------------------------------------------------------
 
 []{#23}2 4\
  \
-Ladite indemnité ou, après les imputations susvisées, sa fraction disponible \
-peut être utilisée librement par le député pour couvrir les autres frais liés à \
-l'exercice de son mandat parlementaire. Elle est versée sur un compte bancaire \
-ou postal personnel, distinct de ceux sur lesquels sont versés l'indemnité \
-parlementaire et, le cas échéant, le crédit pour la rémunération des \
-collaborateurs (1). \
  \
-3. L\'indemnité représentative de frais de mandat est incessible et insaisissable. \
+4. Conformément à l'article 2 de l'arrêté du Bureau n° 12/XV, au terme de la \
+législature ou en cas de cessation du mandat en cours de cel e-ci, le solde non \
+consommé de l'avance est reversé à l'Assemblée nationale, dans les quatre mois \
+suivant la fin du mandat. Le recouvrement des créances considérées est effectué \
+selon les règles définies aux articles 76 et 79 (1). \
  \
-4. Le versement de l\'indemnité représentative de frais de mandat est interrompu : \
- \
- pendant le délai d\'option prévu à l'article L.O. 152 du code électoral lorsque la \
-nomination de membre du Conseil constitutionnel est intervenue avant le début \
-du mandat (2), \
- \
- lorsque le député se trouve dans l\'une des situations visées aux 2, 3 ou 4 de \
-l\'article 43. \
  \
  \
 ***Section II : ***\
@@ -1095,19 +1086,20 @@ Dans les conditions déterminées par les Questeurs, une contribution forfaitair
 destinée à couvrir les frais de gestion des collaborateurs est prélevée, chaque \
 mois, sur le montant de ce crédit. Au-delà d'un nombre de collaborateurs \
 déterminé par les Questeurs, une somme spécifique est en outre prélevée, \
+chaque mois, pour chaque contrat supplémentaire ; elle est imputée dans les \
+conditions visées au 2 de l'article 57 (3) . \
  \
                              \
-(1) Alinéa modifié par l'arrêté n° 121/XI du Bureau de l'Assemblée nationale du 17 avril 2002. \
-(2) Alinéa modifié par l'arrêté n° 123/XIV du Bureau de l'Assemblée nationale du 13 juillet 2016. \
-(3) Article modifié par l'arrêté n° 121/XI du Bureau de l'Assemblée nationale du 17 avril 2002, l'arrêté n° 171/XIII du \
+(1) La rédaction de cet article résulte de l'arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017. \
+(2) Article modifié par l'arrêté n° 121/XI du Bureau de l'Assemblée nationale du 17 avril 2002, l'arrêté n° 171/XIII du \
 Bureau de l'Assemblée nationale du 22 février 2012 et l'arrêté n° 123/XIV du Bureau de l'Assemblée nationale du \
 13 juillet 2016. \
+(3) Alinéa introduit par l'arrêté n° 98/XIII du Bureau de l'Assemblée nationale du 22 décembre 2009. \
 
 ------------------------------------------------------------------------
 
 []{#24}2 5\
-chaque mois, pour chaque contrat supplémentaire ; elle est imputée dans les \
-conditions visées au 2 de l'article 57 (1). \
+ \
  \
  \
 Dans les conditions fixées par un arrêté du Bureau, le député peut céder à son \
@@ -1116,8 +1108,7 @@ groupe une partie de son crédit mensuel. \
 3. En l'absence de mandat de gestion donné au service compétent de l'Assemblée \
 nationale, le crédit mis à la disposition de chaque député lui est, à sa demande, \
 directement versé sur un compte bancaire ou postal personnel distinct de ceux sur \
-lesquels sont versées l'indemnité parlementaire et l'indemnité représentative de \
-frais de mandat. \
+lesquels sont versées l'indemnité parlementaire et l'avance de frais de mandat. \
  \
  \
 Ce crédit, dont le montant est supérieur de moitié à celui déterminé dans les \
@@ -1151,17 +1142,16 @@ partir du lendemain de la cessation de ses fonctions ministérielles. \
  \
 2. Le droit au crédit pour la rémunération des collaborateurs géré selon le mode \
 prévu au 3 de l'article 58 cesse pendant les durées déterminées aux 2, 3 et 4 de \
-l'article 43 (2). \
+l'article 43 (1). \
 3. Pendant les durées visées au 2 ou pendant le délai d'option prévu aux articles L.O \
 152 et L.O 153 du code électoral, seules peuvent être imputées sur le crédit pour \
 la rémunération des collaborateurs géré selon le mode prévu au 2 de l'article 58 \
 les charges liées à l'exécution ou à la résiliation des contrats en cours au début de \
-ces périodes (3). \
+ces périodes (2). \
                              \
-(1) Alinéa introduit par l'arrêté n° 98/XIII du Bureau de l'Assemblée nationale du 22 décembre 2009. \
-(2) Alinéa modifié par l'arrêté n° 121/XI du Bureau de l'Assemblée nationale du 17 avril 2002, l'arrêté n° 171/XIII du \
+(1) Alinéa modifié par l'arrêté n° 121/XI du Bureau de l'Assemblée nationale du 17 avril 2002, l'arrêté n° 171/XIII du \
 22 février 2012 et l'arrêté n° 123/XIV du Bureau de l'Assemblée nationale du 13 juillet 2016. \
-(3) Alinéa introduit par l'arrêté n° 121/XI du Bureau de l'Assemblée nationale du 17 avril 2002 et modifié par l'arrêté \
+(2) Alinéa introduit par l'arrêté n° 121/XI du Bureau de l'Assemblée nationale du 17 avril 2002 et modifié par l'arrêté \
 n° 171/XIII du 22 février 2012 et par l'arrêté n° 123/XIV du Bureau de l'Assemblée nationale du 13 juillet 2016. \
 
 ------------------------------------------------------------------------
@@ -1183,8 +1173,9 @@ modalités d'application du présent alinéa (2). \
 **Article 61 :  Gestion du crédit pour la rémunération des collaborateurs **\
 1. Si le montant des charges imputées autres que cel es mentionnées au deuxième \
 alinéa de l'article 60 est supérieur au montant du crédit disponible, le \
-dépassement est retenu sur l\'indemnité représentative de frais de mandat et, en \
-tant que de besoin, sur l\'indemnité parlementaire (3). \
+dépassement est retenu sur la dotation matérielle des députés ou l'avance \
+mensuelle visée par l'arrêté du Bureau mentionné à l'article 56 puis, en tant que \
+de besoin, sur l'indemnité parlementaire (3). \
 2. La partie éventuellement non utilisée de ce crédit ne peut être reportée sur l\'année \
 suivante (4). \
  \
@@ -1201,16 +1192,20 @@ indépendant des conditions d'emploi des collaborateurs bénéficiaires (5). \
 **Article 63 :  Dépenses liées à l\'exercice du mandat **\
 Les Questeurs déterminent les frais afférents à l\'exercice du mandat de \
 député directement pris en charge ou remboursés par l\'Assemblée nationale et fixent \
-les modalités de cette prise en charge ou de ces remboursements.** **\
+les modalités de cette prise en charge ou de ces remboursements, dans le respect des \
+dispositions de l'arrêté du Bureau visé à l'article 56 (6).** **\
                              \
 (1) Alinéa modifié par l'arrêté n° 98/XIII du Bureau de l'Assemblée nationale du 22 décembre 2009 et par l'arrêté \
 n° 123/XIV du Bureau de l'Assemblée nationale du 13 juillet 2016. \
 (2) Alinéa introduit par l'arrêté n° 92/XII du Bureau de l'Assemblée nationale du 15 juin 2005 et modifié par l'arrêté \
 n° 171/XIII du Bureau de l'Assemblée nationale du 22 février 2012 et par l'arrêté n° 123/XIV du Bureau de \
 l'Assemblée nationale du 13 juillet 2016. \
-(3) Alinéa modifié par l'arrêté n° 92/XII du Bureau de l'Assemblée nationale du 15 juin 2005. \
+(3) Alinéa modifié par l'arrêté n° 92/XII du Bureau de l'Assemblée nationale du 15 juin 2005, l'arrêté n° 12/XV du \
+Bureau de l'Assemblée nationale du 29 novembre 2017 et par l'arrêté n° 18/XV du Bureau de l'Assemblée nationale du \
+24 janvier 2018. \
 (4) Alinéa modifié par l'arrêté n° 23/XII du Bureau de l'Assemblée nationale du 16 janvier 2003. \
 (5) Alinéa modifié par l'arrêté n° 108/XI du Bureau de l'Assemblée nationale du 12 décembre 2001. \
+(6) La rédaction de cet article résulte de l'arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017. \
 
 ------------------------------------------------------------------------
 
@@ -1371,6 +1366,14 @@ la Caisse des Dépôts et Consignations. \
 - des régies d'avances \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 28 \
 - des régies de recettes \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 29 \
  \
+**Avance de frais de mandat** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 56, 57 \
+- cessibilité et saisissabilité \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 57-2 \
+- dépassement du crédit collaborateur \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 61 \
+- modalités de versement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 56-2 \
+- période de versement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 57-1, 57-3 \
+- retenues et charges imputées \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 56-2 \
+- reversement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 57-4 \
+ \
 **Avances** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 20-3, 20-4 \
  \
 **Avances permanentes** (voir aussi régies) \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 20-2, 28-1, 28-2 \
@@ -1413,12 +1416,12 @@ la Caisse des Dépôts et Consignations. \
 - crédit collaborateur \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 59, 62 \
 - garantie de ressources \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 48 \
 - indemnité parlementaire \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 42 \
-- indemnité représentative de frais de mandat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 56-2, 56-3 \
+- avance de frais de mandat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 57-1, 57-4 \
  \
 **Cessibilité et saisissabilité** \
 - indemnité de fonction \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 44-1 \
 - indemnité parlementaire \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 44 \
-- indemnité représentative de frais de mandat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 57-3 \
+- avance de frais de mandat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 57-2 \
 - indemnités spéciales \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 46-3 \
 - pensions \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 73 \
  \
@@ -1467,6 +1470,7 @@ la Caisse des Dépôts et Consignations. \
 **Crédit collaborateur** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 58 et s. \
 - cession au groupe politique \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 58-2 \
 - charges liées à l'emploi de collaborateurs \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 58, 61, 62 \
+- dépassement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 61-1 \
 - frais de gestion \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 58-2 \
 - gestion directe \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 58-1, 58-3 \
 - mandat de gestion \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 58-1, 58-2 \
@@ -1496,6 +1500,8 @@ la Caisse des Dépôts et Consignations. \
 - période d'engagement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 9 \
 - répartition par chapitre \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 3-3 \
 **Dissolution** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 41-1, 42-1, 47-3 \
+ \
+**Dotation matérielle des députés** (imputation du dépassement du crédit collaborateur)\...\...\...\... 61-1 \
 **Dotation versée par l'Etat** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 1-3 \
 - augmentation \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 5-3 \
 - fixation du montant \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 3-2, 3-3 \
@@ -1532,7 +1538,7 @@ la Caisse des Dépôts et Consignations. \
 Fonds de sécurité sociale** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 1-4, 35, 45-1 \
 ** \
 Frais \
-**- de mandat (voir indemnité représentative) \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 56, 57 \
+**- de mandat (voir avance de frais de mandat) \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 56, 57 \
 - de mission \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 20-4, 64-1 \
 - de réception et de représentation \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 64 \
  \
@@ -1574,15 +1580,6 @@ Frais \
 - réduction \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 43-1 \
 - remplaçant \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 41-3 \
 - retenues \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 45 \
- \
-**Indemnité représentative de frais de mandat** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 56, 57 \
-- cessibilité et saisissabilité \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 57-3 \
-- dépassement du crédit collaborateur \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 61 \
-- modalités de versement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 57-2 \
-- période de versement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 56-2, 57-4 \
-- retenues et charges imputées \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 57-2 \
-- revalorisation \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 57-1 \
-- reversement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 56-3 \
  \
 **Indemnité de résidence** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 40-1 \
  \
@@ -1730,7 +1727,7 @@ Frais \
 **- pour service non fait \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 71 \
 - sur les traitements du personnel \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 68 \
 - sur l'indemnité parlementaire \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 45 \
-- sur l'indemnité représentative de frais de mandat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 57, 61-1 \
+- sur l'avance de frais de mandat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 57-2, 61-1 \
  \
  \
 **S **\
@@ -1739,7 +1736,7 @@ Frais \
 **Saisies** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 80, 81 \
 - consignation à la Caisse des dépôts et consignations \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 81-2 \
 - insaisissabilité de l'indemnité de fonction \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 44-2 \
-- insaisissabilité de l'indemnité représentative de frais de mandat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 57-3 \
+- insaisissabilité de l'avance de frais de mandat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 57-2 \
 - insaisissabilité des indemnités spéciales \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 46-3 \
 - notification au Trésorier \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 80 \
 - sur les pensions \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 73 \
