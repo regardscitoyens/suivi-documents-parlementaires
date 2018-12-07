@@ -21,7 +21,8 @@ function update_file {
 }
 
 git pull > /tmp/load_reglement_budgetaire_an.tmp
-update_file "http://www2.assemblee-nationale.fr/static/arrete_Bureau_12_XV_consolide.pdf" "Arrêté Bureau - Frais de mandat 12 XV" >> /tmp/load_reglement_budgetaire_an.tmp
+update_file "http://www2.assemblee-nationale.fr/static/deontologue/12_XV_bureau_frais_mandat_061218.pdf" "Arrêté Bureau - Frais de mandat 12 XV" >> /tmp/load_reglement_budgetaire_an.tmp
+# http://www2.assemblee-nationale.fr/static/arrete_Bureau_12_XV_consolide.pdf
 # http://www2.assemblee-nationale.fr/static/12_XV_Bureau_frais%20de%20mandat.pdf
 # http://www2.assemblee-nationale.fr/static/arrete_bureau_12_XV_291117.pdf
 update_file "http://www2.assemblee-nationale.fr/static/comptes/RBCF.pdf" "Réglement budgétaire, comptable et financier" >> /tmp/load_reglement_budgetaire_an.tmp
