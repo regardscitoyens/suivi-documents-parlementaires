@@ -17,7 +17,7 @@
 ** **\
 ** **\
 ** **\
-**Edition 2018 **\
+**Edition 2019 **\
 ** **\
 ** **\
 
@@ -80,6 +80,8 @@ Arrêté n° 123/XIV du Bureau de l'Assemblée nationale du 13 juillet 2016 \
 Arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017 \
  \
 Arrêté n° 18/XV du Bureau de l'Assemblée nationale du 24 janvier 2018 \
+ \
+Arrêté n° 53/XV du Bureau de l'Assemblée nationale du 7 novembre 2018 \
 
 ------------------------------------------------------------------------
 
@@ -362,7 +364,7 @@ fixée par l\'article 7 de l\'ordonnance n° 58-1100 du 17 novembre 1958 précit
 **Signification et portée de l\'autorisation budgétaire **\
 1. Les crédits sont limitatifs, à l\'exception de ceux relatifs aux indemnités des \
 députés, aux rémunérations de personnel, aux pensions, aux retraites, aux \
-prestations familiales et aux charges sociales y afférentes et aux frais de mandat \
+prestations familiales, aux charges sociales y afférentes et aux frais de mandat \
 des députés qui sont évaluatifs (2). \
  \
 2. Les sommes inscrites aux chapitres de recettes sont évaluatives. \
@@ -1176,8 +1178,8 @@ alinéa de l'article 60 est supérieur au montant du crédit disponible, le \
 dépassement est retenu sur la dotation matérielle des députés ou l'avance \
 mensuelle visée par l'arrêté du Bureau mentionné à l'article 56 puis, en tant que \
 de besoin, sur l'indemnité parlementaire (3). \
-2. La partie éventuellement non utilisée de ce crédit ne peut être reportée sur l\'année \
-suivante (4). \
+2. Par dérogation au principe d'annualité budgétaire prévu à l'article 1er, la partie \
+éventuellement non utilisée de ce crédit est reportée sur l\'année suivante (4). \
  \
 **Article 62 :  Autres charges financées par l\'Assemblée nationale **\
 L\'Assemblée nationale finance dans les conditions déterminées par les \
@@ -1203,7 +1205,8 @@ l'Assemblée nationale du 13 juillet 2016. \
 (3) Alinéa modifié par l'arrêté n° 92/XII du Bureau de l'Assemblée nationale du 15 juin 2005, l'arrêté n° 12/XV du \
 Bureau de l'Assemblée nationale du 29 novembre 2017 et par l'arrêté n° 18/XV du Bureau de l'Assemblée nationale du \
 24 janvier 2018. \
-(4) Alinéa modifié par l'arrêté n° 23/XII du Bureau de l'Assemblée nationale du 16 janvier 2003. \
+(4) Alinéa modifié par l'arrêté n° 23/XII du Bureau de l'Assemblée nationale du 16 janvier 2003 et l'arrêté n° 53/XV du \
+Bureau de l'Assemblée nationale du 7 novembre 2018. \
 (5) Alinéa modifié par l'arrêté n° 108/XI du Bureau de l'Assemblée nationale du 12 décembre 2001. \
 (6) La rédaction de cet article résulte de l'arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017. \
 
