@@ -8,10 +8,10 @@ function update_file {
   url=$1
   room=$2
   fil=$3
-  mot=$(echo $fil | sed 's/ .*$//')
   ext=$(echo $url | sed -r 's/^.*\.([a-z]{2,5})$/\1/')
-  echo "Download «$fil» at $url..."
-  last=$(ls pdfs/*$mot* | tail -1)
+  search=$(echo $fil | sed 's/ /\\ /g')
+  echo "Download «$room/$fil.$ext» at $url..."
+  last=$(ls pdfs/$room/"$fil "-* | tail -1)
   new="pdfs/$room/$fil - $dat.$ext"
   wget -q "$url" -O "$new"
   if test -s "$new" && diff "$last" "$new" | grep . > /dev/null; then
@@ -46,7 +46,7 @@ update_file "http://www2.assemblee-nationale.fr/content/download/25883/244571/ve
 #update_file "" AN "" >> /tmp/load_documents_parl.tmp
 
 
-update_file "https://www.senat.fr/reglement/reglement_mono.html" Sénat "Règlement" >> /tmp/load_documents_parl.tmp
+update_file "https://www.senat.fr/reglement/reglement_mono.html" Sénat "Réglement" >> /tmp/load_documents_parl.tmp
 
 update_file "https://www.senat.fr/fileadmin/Fichiers/Images/sgp/Comite_de_deontologie/GUIDE_DEONTOLOGIE_SENATEUR_140119_BD.pdf" Sénat "Guide de déontologie" >> /tmp/load_documents_parl.tmp
 
@@ -70,7 +70,7 @@ update_file "https://www.senat.fr/fileadmin/Fichiers/Images/sgp/Liste_Declaratio
 
 if git status | grep "pdfs" > /dev/null; then
   cat /tmp/load_documents_parl.tmp
-  git add pdfs/*/*$dat.pdf
+  git add pdfs/*/*$dat.*
   git commit -m "Update documents parlementaires - 20$dat"
   git push
 fi
