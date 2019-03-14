@@ -9,9 +9,10 @@ function update_file {
   room=$2
   fil=$3
   mot=$(echo $fil | sed 's/ .*$//')
+  ext=$(echo $url | sed -r 's/^.*\.([a-z]{2,5})$/\1/')
   echo "Download «$fil» at $url..."
   last=$(ls pdfs/*$mot* | tail -1)
-  new="pdfs/$room/$fil - $dat.pdf"
+  new="pdfs/$room/$fil - $dat.$ext"
   wget -q "$url" -O "$new"
   if test -s "$new" && diff "$last" "$new" | grep . > /dev/null; then
     echo "  -> New version!"
@@ -22,11 +23,50 @@ function update_file {
 }
 
 git pull > /tmp/load_documents_parl.tmp
-update_file "http://www2.assemblee-nationale.fr/static/deontologue/12_XV_bureau_frais_mandat_061218.pdf" AN "Arrêté Bureau - Frais de mandat 12 XV" >> /tmp/load_documents_parl.tmp
+
+update_file "http://www.assemblee-nationale.fr/connaissance/reglement.pdf" AN "Réglement" >> /tmp/load_documents_parl.tmp
+
+update_file "http://www.assemblee-nationale.fr/connaissance/igb_092018.pdf" AN "Instruction Générale du Bureau" >> /tmp/load_documents_parl.tmp
+
+update_file "http://www2.assemblee-nationale.fr/static/comptes/RBCF.pdf" AN "Réglement budgétaire, comptable et financier" >> /tmp/load_documents_parl.tmp
+
+update_file "http://www2.assemblee-nationale.fr/static/deontologue/12_XV_bureau_fdm_consolide.pdf" AN "Arrêté Bureau - Frais de mandat 12 XV" >> /tmp/load_documents_parl.tmp
+# http://www2.assemblee-nationale.fr/static/deontologue/12_XV_bureau_frais_mandat_061218.pdf
 # http://www2.assemblee-nationale.fr/static/arrete_Bureau_12_XV_consolide.pdf
 # http://www2.assemblee-nationale.fr/static/12_XV_Bureau_frais%20de%20mandat.pdf
 # http://www2.assemblee-nationale.fr/static/arrete_bureau_12_XV_291117.pdf
-update_file "http://www2.assemblee-nationale.fr/static/comptes/RBCF.pdf" AN "Réglement budgétaire, comptable et financier" >> /tmp/load_documents_parl.tmp
+
+update_file "http://www2.assemblee-nationale.fr/static/deontologue/61_XV_bureau_040219.pdf" AN "Arrêté Bureau - Tirage au sort 61 XV" >> /tmp/load_documents_parl.tmp
+# http://www2.assemblee-nationale.fr/static/15/deontologue/arrete_bureau_6115.pdf
+
+update_file "http://www2.assemblee-nationale.fr/static/15/liste_preconisations.pdf" AN "Bureau - Préconisations ReformeAN 3" >> /tmp/load_documents_parl.tmp
+
+update_file "http://www2.assemblee-nationale.fr/content/download/25883/244571/version/5/file/code-deontologie.pdf" AN "Code de déontologie" >> /tmp/load_documents_parl.tmp
+
+#update_file "" AN "" >> /tmp/load_documents_parl.tmp
+
+
+update_file "https://www.senat.fr/reglement/reglement_mono.html" Sénat "Règlement" >> /tmp/load_documents_parl.tmp
+
+update_file "https://www.senat.fr/fileadmin/Fichiers/Images/sgp/Comite_de_deontologie/GUIDE_DEONTOLOGIE_SENATEUR_140119_BD.pdf" Sénat "Guide de déontologie" >> /tmp/load_documents_parl.tmp
+
+update_file "https://www.senat.fr/fileadmin/Fichiers/Images/sgp/Declarations/Registre_des_deports.pdf" Sénat "Registre des déports" >> /tmp/load_documents_parl.tmp
+
+update_file "https://www.senat.fr/fileadmin/Fichiers/Images/sgp/Declarations/Classeur_Cadeaux_2018-2019.pdf" Sénat "Registre des cadeaux" >> /tmp/load_documents_parl.tmp
+
+update_file "https://www.senat.fr/fileadmin/Fichiers/Images/sgp/Declarations/Liste_deplacements_organismes_exterieurs_en_ligne.pdf" Sénat "Registre des invitations" >> /tmp/load_documents_parl.tmp
+
+update_file "https://www.senat.fr/fileadmin/Fichiers/Images/sgp/Liste_Declarations_Invit_Gpes_Interet.pdf" Sénat "Registre des invitations lobbies" >> /tmp/load_documents_parl.tmp
+
+# https://www.senat.fr/role/nouveau_regime_frais_de_mandat.html
+#    Arrêté du Bureau du Sénat n° 2017-272 et son annexe (référentiel des frais de mandat éligibles)
+#    Arrêté de Questure n° 2017-1202
+#    Avis du Comité de déontologie du Sénat n° CDP/2017-1
+#    Guide pratique - Frais de mandat des sénateurs
+
+
+#update_file "" Sénat "" >> /tmp/load_documents_parl.tmp
+
 
 if git status | grep "pdfs" > /dev/null; then
   cat /tmp/load_documents_parl.tmp
