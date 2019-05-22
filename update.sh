@@ -30,7 +30,8 @@ update_file "http://www.assemblee-nationale.fr/connaissance/igb_092018.pdf" AN "
 
 update_file "http://www2.assemblee-nationale.fr/static/comptes/RBCF.pdf" AN "Réglement budgétaire, comptable et financier" >> /tmp/load_documents_parl.tmp
 
-update_file "http://www2.assemblee-nationale.fr/static/deontologue/12_XV_bureau_fdm_consolide.pdf" AN "Arrêté Bureau - Frais de mandat 12 XV" >> /tmp/load_documents_parl.tmp
+update_file "http://www2.assemblee-nationale.fr/static/15/deontologue/arrete_bureau_12XV_220519.pdf" AN "Arrêté Bureau - Frais de mandat 12 XV" >> /tmp/load_documents_parl.tmp
+# http://www2.assemblee-nationale.fr/static/deontologue/12_XV_bureau_fdm_consolide.pdf
 # http://www2.assemblee-nationale.fr/static/deontologue/12_XV_bureau_frais_mandat_061218.pdf
 # http://www2.assemblee-nationale.fr/static/arrete_Bureau_12_XV_consolide.pdf
 # http://www2.assemblee-nationale.fr/static/12_XV_Bureau_frais%20de%20mandat.pdf
