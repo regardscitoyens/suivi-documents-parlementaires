@@ -30,7 +30,8 @@ update_file "http://www.assemblee-nationale.fr/connaissance/igb_092018.pdf" AN "
 
 update_file "http://www2.assemblee-nationale.fr/static/comptes/RBCF.pdf" AN "Réglement budgétaire, comptable et financier" >> /tmp/load_documents_parl.tmp
 
-update_file "http://www2.assemblee-nationale.fr/static/15/deontologue/arrete_bureau_12XV_220519.pdf" AN "Arrêté Bureau - Frais de mandat 12 XV" >> /tmp/load_documents_parl.tmp
+update_file "http://www2.assemblee-nationale.fr/static/15/deontologue/arrete_bureau_12XV_221019.pdf" AN "Arrêté Bureau - Frais de mandat 12 XV" >> /tmp/load_documents_parl.tmp
+# http://www2.assemblee-nationale.fr/static/15/deontologue/arrete_bureau_12XV_220519.pdf
 # http://www2.assemblee-nationale.fr/static/deontologue/12_XV_bureau_fdm_consolide.pdf
 # http://www2.assemblee-nationale.fr/static/deontologue/12_XV_bureau_frais_mandat_061218.pdf
 # http://www2.assemblee-nationale.fr/static/arrete_Bureau_12_XV_consolide.pdf
@@ -42,7 +43,8 @@ update_file "http://www2.assemblee-nationale.fr/static/deontologue/61_XV_bureau_
 
 update_file "http://www2.assemblee-nationale.fr/static/15/liste_preconisations.pdf" AN "Bureau - Préconisations ReformeAN 3" >> /tmp/load_documents_parl.tmp
 
-update_file "http://www2.assemblee-nationale.fr/content/download/25883/244571/version/5/file/code-deontologie.pdf" AN "Code de déontologie" >> /tmp/load_documents_parl.tmp
+update_file "http://www2.assemblee-nationale.fr/content/download/179918/1801507/version/1/file/code+de+déontologie_actualisé+suite+bureau+091019.pdf" AN "Code de déontologie" >> /tmp/load_documents_parl.tmp
+#http://www2.assemblee-nationale.fr/content/download/25883/244571/version/5/file/code-deontologie.pdf
 
 #update_file "" AN "" >> /tmp/load_documents_parl.tmp
 
