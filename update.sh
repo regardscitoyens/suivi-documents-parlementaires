@@ -46,6 +46,11 @@ update_file "http://www2.assemblee-nationale.fr/static/15/liste_preconisations.p
 update_file "http://www2.assemblee-nationale.fr/content/download/179918/1801507/version/1/file/code+de+déontologie_actualisé+suite+bureau+091019.pdf" AN "Code de déontologie" >> /tmp/load_documents_parl.tmp
 #http://www2.assemblee-nationale.fr/content/download/25883/244571/version/5/file/code-deontologie.pdf
 
+update_file "http://www2.assemblee-nationale.fr/content/download/183338/1837494/version/1/file/Liste+Voyages_publiee_121219.pdf" AN "Registre des voyages" >> /tmp/load_documents_parl.tmp
+
+update_file "http://www2.assemblee-nationale.fr/content/download/183339/1837502/version/1/file/Liste+Dons+et+invitations_publiee_121219.pdf" AN "Registre des cadeaux" >> /tmp/load_documents_parl.tmp
+
+
 #update_file "" AN "" >> /tmp/load_documents_parl.tmp
 
 
