@@ -11,10 +11,10 @@ function update_file {
   ext=$(echo $url | sed -r 's/^.*\.([a-z]{2,5})$/\1/')
   search=$(echo $fil | sed 's/ /\\ /g')
   echo "Download «$room/$fil.$ext» at $url..."
-  last=$(ls pdfs/$room/"$fil "-* | tail -1)
+  last=$(ls pdfs/$room/"$fil "-* 2>/dev/null | tail -1)
   new="pdfs/$room/$fil - $dat.$ext"
   wget -q "$url" -O "$new"
-  if test -s "$new" && diff "$last" "$new" | grep . > /dev/null; then
+  if [ -z "$last" ] || (test -s "$new" && diff "$last" "$new" | grep . > /dev/null); then
     echo "  -> New version!"
   else
     rm -f "$new"
