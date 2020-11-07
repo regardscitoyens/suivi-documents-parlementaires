@@ -17,7 +17,7 @@
 ** **\
 ** **\
 ** **\
-**Edition 2019 **\
+**Édition 2020 **\
 ** **\
 ** **\
 
@@ -82,6 +82,9 @@ Arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017 \
 Arrêté n° 18/XV du Bureau de l'Assemblée nationale du 24 janvier 2018 \
  \
 Arrêté n° 53/XV du Bureau de l'Assemblée nationale du 7 novembre 2018 \
+ \
+Arrêté n° 99/XV du Bureau de l'Assemblée nationale du 14 octobre 2020. \
+ \
 
 ------------------------------------------------------------------------
 
@@ -143,7 +146,7 @@ Article 21 :  Paiement aux ayants droit de succession \...\...\...\...\...\...\.
 ***Section V : Exécution des recettes*** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 15 \
 Article 22 :  Autorité qualifiée pour l\'encaissement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 15 \
 Article 23 : \
-Émission et traitement des titres de recettes \...\...\...\...\...\...\...\...\...\...\...\...\...\... 16 \
+Émission et traitement des titres de recettes \...\...\...\...\...\...\...\...\...\...\...\...\...\... 15 \
 Article 24 : \
 Vente des biens réformés \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 16 \
 Article 25 :  Gestion de la dotation, des disponibilités et des immobilisations \
@@ -232,9 +235,9 @@ Article 61 : \
  Gestion du crédit pour la rémunération des collaborateurs \...\...\...\...\...\..... 26 \
 Article 62 : \
  Autres charges financées par l\'Assemblée nationale \...\...\...\...\...\...\...\...\..... 26 \
-**Titre IV : Autres charges parlementaires** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 26 \
+**Titre IV : Autres charges parlementaires** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 27 \
 Article 63 : \
- Dépenses liées à l\'exercice du mandat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 26 \
+ Dépenses liées à l\'exercice du mandat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 27 \
 Article 64 : \
  Frais de réception et de représentation \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 27 \
 Article 65 : \
@@ -248,8 +251,8 @@ Article 65 : \
 **QUATRIÈME PARTIE : CHARGES DE PERSONNEL** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 27 \
 Article 66 :  Rémunérations \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 27 \
 Article 67 :  Cumuls de retraites et de rémunérations \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 27 \
-Article 68 :  Retenues sur les traitements \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 27 \
-Article 69 :  Point de départ du droit à traitement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 27 \
+Article 68 :  Retenues sur les traitements \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 28 \
+Article 69 :  Point de départ du droit à traitement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 28 \
 Article 70 :  Perte du droit à traitement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 28 \
 Article 71 :  Retenues pour service non fait \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 28 \
 Article 72 :  Paiement du traitement en cas d\'admission à la retraite ou de décès \...\... 28 \
@@ -1007,7 +1010,7 @@ l'Arrêté du Bureau n° 12/XV détermine la liste, les modalités de prise en c
 de contrôle des frais de mandat des députés. \
  \
 2. Sont directement imputées sur l'avance mensuel e visée par l'arrêté du Bureau \
-mentionné à l'article précédent : \
+mentionné au 1. (5) : \
  \
 - la rémunération brute des col aborateurs au-delà du crédit défini à l'article 58 et \
 au premier alinéa de l'article 60, lorsque la gestion du crédit pour la rémunération \
@@ -1019,9 +1022,9 @@ collaborateurs, \
 - les cotisations aux groupes parlementaires. \
 - les retenues liées au remboursement des prestations servies ou des prêts \
 accordés par l'Assemblée nationale au député dans le cadre de l'exercice de son \
-mandat. » (5). \
+mandat. (6). \
  \
-**Article 57 :  Régime juridique de l'avance **(6)** **\
+**Article 57 :  Régime juridique de l'avance** (7)** **\
 1. Le droit à l'avance mensuelle visée par ledit arrêté est, pour chaque député, \
 ouvert en même temps que le droit à l'indemnité parlementaire et pour la durée de \
 son mandat. \
@@ -1038,9 +1041,10 @@ de l'Assemblée nationale du 22 février 2012. L'article 51 et la section III de
 n° 45/XII du Bureau de l'Assemblée nationale du 8 octobre 2003. \
 (3) La rédaction de cet article résulte de l'arrêté n° 171/XIII du Bureau de l'Assemblée nationale du 22 février 2012. \
 (4) Cet intitulé résulte de l'arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017. \
-(5) La rédaction de cet article résulte de l'arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017, \
+(5) Alinéa modifié par l'arrêté n° 99/XV du Bureau de l'Assemblée nationale du 14 octobre 2020. \
+(6) La rédaction de cet article résulte de l'arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017, \
 modifiée par l'arrêté n° 18/XV du Bureau de l'Assemblée nationale du 24 janvier 2018. \
-(6) Cet intitulé résulte de l'arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017. \
+(7) Cet intitulé résulte de l'arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017. \
 
 ------------------------------------------------------------------------
 
@@ -1073,7 +1077,10 @@ collaborateurs. \
  \
 A défaut, le député assume la gestion directe de ce crédit, sous sa seule \
 responsabilité et dans le respect de l'ensemble des obligations légales incombant \
-aux employeurs de salariés de droit privé. \
+aux employeurs de salariés de droit privé. Les députés représentant les Français \
+établis hors de France peuvent demander à gérer directement une part du crédit \
+collaborateur, pour les seuls collaborateurs dont le lieu de travail est situé à \
+l'étranger. (3) \
  \
 2. Lorsque la gestion du crédit pour la rémunération des collaborateurs fait l'objet \
 d'un mandat donné par le député au service de l'Assemblée nationale compétent, \
@@ -1089,14 +1096,16 @@ destinée à couvrir les frais de gestion des collaborateurs est prélevée, cha
 mois, sur le montant de ce crédit. Au-delà d'un nombre de collaborateurs \
 déterminé par les Questeurs, une somme spécifique est en outre prélevée, \
 chaque mois, pour chaque contrat supplémentaire ; elle est imputée dans les \
-conditions visées au 2 de l'article 57 (3) . \
+conditions visées au 2 de l'article 56. (4) \
  \
                              \
 (1) La rédaction de cet article résulte de l'arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017. \
 (2) Article modifié par l'arrêté n° 121/XI du Bureau de l'Assemblée nationale du 17 avril 2002, l'arrêté n° 171/XIII du \
 Bureau de l'Assemblée nationale du 22 février 2012 et l'arrêté n° 123/XIV du Bureau de l'Assemblée nationale du \
 13 juillet 2016. \
-(3) Alinéa introduit par l'arrêté n° 98/XIII du Bureau de l'Assemblée nationale du 22 décembre 2009. \
+(3) Alinéa modifié par l'arrêté n° 99/XV du Bureau de l'Assemblée nationale du 14 octobre 2020. \
+(4) Alinéa introduit par l'arrêté n° 98/XIII du Bureau de l'Assemblée nationale du 22 décembre 2009 et modifié par \
+l'arrêté 99/XV du Bureau de l'Assemblée nationale du 14 octobre 2020. \
 
 ------------------------------------------------------------------------
 
@@ -1127,14 +1136,33 @@ conditions prévues à l'article 60, a pour objet de couvrir : \
 aux rémunérations versées aux collaborateurs salariés. \
  \
  \
-A la demande du député ou de ses ayants droit, l'Assemblée nationale rembourse, \
+À titre dérogatoire, les députés représentant les Français établis hors de France \
+peuvent utiliser ce crédit pour rémunérer des sociétés ou des prestataires de \
+services pour l'accomplissement de tâches effectuées à l'étranger.(1) \
+ \
+ \
+À la demande du député ou de ses ayants droit, l'Assemblée nationale rembourse, \
 sur pièces justificatives, les charges salariales liées au licenciement des \
 collaborateurs salariés consécutif à la cessation de son mandat ou à son décès. \
  \
  \
-Les dispositions des articles 61 et 62 ne sont pas applicables au crédit pour la \
+Les dispositions des articles 61.1 et 62 ne sont pas applicables au crédit pour la \
 rémunération des collaborateurs géré dans les conditions prévues au présent \
-paragraphe. \
+paragraphe. En cas d'insuffisance du crédit, le député peut opérer un versement \
+depuis le compte utilisé pour la gestion de son avance mensuelle de frais de \
+mandat sur le compte utilisé pour la gestion de son crédit collaborateur.* *(*2*) \
+* *\
+* *\
+Le député fournit les justificatifs permettant aux Questeurs de contrôler en fin \
+d'exercice que les sommes versées et, le cas échéant, les versements depuis le \
+compte utilisé pour la gestion de son avance mensuelle de frais de mandat, ont \
+été utilisés conformément à leur objet. Dans le cas contraire, les Questeurs \
+peuvent décider que les sommes en cause sont récupérées sur les versements à \
+venir ou, en cas d'impossibilité, reversées au budget de l'Assemblée nationale. (3) \
+ \
+ \
+Les sommes non utilisées sont reversées au budget de l'Assemblée nationale au \
+terme du mandat.(4) \
  \
 **Article 59 :  Période d\'ouverture du droit au crédit pour la rémunération des **\
 ** collaborateurs **\
@@ -1151,10 +1179,10 @@ la rémunération des collaborateurs géré selon le mode prévu au 2 de l'artic
 les charges liées à l'exécution ou à la résiliation des contrats en cours au début de \
 ces périodes (2). \
                              \
-(1) Alinéa modifié par l'arrêté n° 121/XI du Bureau de l'Assemblée nationale du 17 avril 2002, l'arrêté n° 171/XIII du \
-22 février 2012 et l'arrêté n° 123/XIV du Bureau de l'Assemblée nationale du 13 juillet 2016. \
-(2) Alinéa introduit par l'arrêté n° 121/XI du Bureau de l'Assemblée nationale du 17 avril 2002 et modifié par l'arrêté \
-n° 171/XIII du 22 février 2012 et par l'arrêté n° 123/XIV du Bureau de l'Assemblée nationale du 13 juillet 2016. \
+(1) Alinéa introduit par l'arrêté n° 99/XV du Bureau de l'Assemblée nationale du 14 octobre 2020. \
+(2) Alinéa modifié par l'arrêté n° 99/XV du Bureau de l'Assemblée nationale du 14 octobre 2020. \
+(3) Alinéa introduit par l'arrêté n° 99/XV du Bureau de l'Assemblée nationale du 14 octobre 2020. \
+(4) Alinéa introduit par l'arrêté n° 99/XV du Bureau de l'Assemblée nationale du 14 octobre 2020. \
 
 ------------------------------------------------------------------------
 
@@ -1197,6 +1225,10 @@ député directement pris en charge ou remboursés par l\'Assemblée nationale e
 les modalités de cette prise en charge ou de ces remboursements, dans le respect des \
 dispositions de l'arrêté du Bureau visé à l'article 56 (6).** **\
                              \
+(1) Alinéa modifié par l'arrêté n° 121/XI du Bureau de l'Assemblée nationale du 17 avril 2002, l'arrêté n° 171/XIII du \
+22 février 2012 et l'arrêté n° 123/XIV du Bureau de l'Assemblée nationale du 13 juillet 2016. \
+(2) Alinéa introduit par l'arrêté n° 121/XI du Bureau de l'Assemblée nationale du 17 avril 2002 et modifié par l'arrêté \
+n° 171/XIII du 22 février 2012 et par l'arrêté n° 123/XIV du Bureau de l'Assemblée nationale du 13 juillet 2016. \
 (1) Alinéa modifié par l'arrêté n° 98/XIII du Bureau de l'Assemblée nationale du 22 décembre 2009 et par l'arrêté \
 n° 123/XIV du Bureau de l'Assemblée nationale du 13 juillet 2016. \
 (2) Alinéa introduit par l'arrêté n° 92/XII du Bureau de l'Assemblée nationale du 15 juin 2005 et modifié par l'arrêté \
@@ -1207,8 +1239,6 @@ Bureau de l'Assemblée nationale du 29 novembre 2017 et par l'arrêté n° 18/XV
 24 janvier 2018. \
 (4) Alinéa modifié par l'arrêté n° 23/XII du Bureau de l'Assemblée nationale du 16 janvier 2003 et l'arrêté n° 53/XV du \
 Bureau de l'Assemblée nationale du 7 novembre 2018. \
-(5) Alinéa modifié par l'arrêté n° 108/XI du Bureau de l'Assemblée nationale du 12 décembre 2001. \
-(6) La rédaction de cet article résulte de l'arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017. \
 
 ------------------------------------------------------------------------
 
@@ -1246,6 +1276,10 @@ dues aux autres personnels. \
 **Article 67 :  Cumuls de retraites et de rémunérations **\
 Les dispositions législatives relatives aux cumuls de retraites et de \
 rémunérations sont applicables aux traitements du personnel. \
+                             \
+(5) Alinéa modifié par l'arrêté n° 108/XI du Bureau de l'Assemblée nationale du 12 décembre 2001. \
+(6) La rédaction de cet article résulte de l'arrêté n° 12/XV du Bureau de l'Assemblée nationale du 29 novembre 2017. \
+(1) Alinéa modifié par l'arrêté n° 171/XIII du Bureau de l'Assemblée nationale du 22 février 2012. \
  \
 **Article 68 :  Retenues sur les traitements **\
 Sont opérées sur les traitements du personnel les retenues obligatoires de \
@@ -1256,12 +1290,6 @@ arrêtés du Bureau ou des Questeurs. \
 **Article 69 :  Point de départ du droit à traitement **\
 Tout employé a droit à son traitement à partir du jour de sa prise de service \
 fixée dans l\'arrêté de nomination. \
-                             \
-(1) Alinéa modifié par l'arrêté n° 171/XIII du Bureau de l'Assemblée nationale du 22 février 2012. \
-
-------------------------------------------------------------------------
-
-[]{#27}2 8\
  \
 **Article 70 :  Perte du droit à traitement **\
 1. Le droit à traitement d\'un employé prend fin à partir du lendemain de la cessation \
@@ -1370,8 +1398,9 @@ la Caisse des Dépôts et Consignations. \
 - des régies de recettes \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 29 \
  \
 **Avance de frais de mandat** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 56, 57 \
+- abondement du crédit collaborateur en gestion directe\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 58-3 \
 - cessibilité et saisissabilité \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 57-2 \
-- dépassement du crédit collaborateur \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 61 \
+- dépassement du crédit collaborateur en gestion déléguée \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 56-2, 61 \
 - modalités de versement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 56-2 \
 - période de versement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 57-1, 57-3 \
 - retenues et charges imputées \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 56-2 \
@@ -1471,14 +1500,16 @@ la Caisse des Dépôts et Consignations. \
 - virements\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 4 \
  \
 **Crédit collaborateur** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 58 et s. \
+- abondement en gestion directe \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 58-3 \
 - cession au groupe politique \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 58-2 \
 - charges liées à l'emploi de collaborateurs \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 58, 61, 62 \
-- dépassement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 61-1 \
+- dépassement en gestion déléguée \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 61-1 \
+- députés représentant les Français établis hors de France.................................... .. 58-1, 58-3 \
 - frais de gestion \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 58-2 \
 - gestion directe \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 58-1, 58-3 \
 - mandat de gestion \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 58-1, 58-2 \
 - montant \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 60 \
-- période de versement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 59-1 \
+- période de versement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 59 \
 - report \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 61-2 \
  \
 **Cumuls \
@@ -1502,6 +1533,10 @@ la Caisse des Dépôts et Consignations. \
 - ordonnancement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 20 \
 - période d'engagement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 9 \
 - répartition par chapitre \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 3-3 \
+ \
+**Députés représentant les Français établis hors de France \
+- **gestion directe du crédit collaborateur \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 58-1, 58-3 \
+ \
 **Dissolution** \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 41-1, 42-1, 47-3 \
  \
 **Dotation matérielle des députés** (imputation du dépassement du crédit collaborateur)\...\...\...\... 61-1 \
@@ -1681,7 +1716,7 @@ Frais \
 - approbation des budgets rectificatifs \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 5-1 \
 - arrêté de régularisation des virements de crédits \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 4-2 \
 - autorisation du paiement des dépenses par prélèvement \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 20-2 \
-- conditions d'utilisation du crédit collaborateur \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 58-2, 61-2 \
+- conditions d'utilisation du crédit collaborateur \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 58-2, 58-3, 61-2 \
 - création de comptabilités annexes \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\... 35-3 \
 - création des régies \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 27 \
 - détermination des frais de mandat remboursés par l'Assemblée Nationale \...\...\...\...\...\...\...\...\...\...\.... 63 \
@@ -1730,7 +1765,7 @@ Frais \
 **- pour service non fait \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\.... 71 \
 - sur les traitements du personnel \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 68 \
 - sur l'indemnité parlementaire \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 45 \
-- sur l'avance de frais de mandat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 57-2, 61-1 \
+- sur l'avance de frais de mandat \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\..... 56-2, 61-1 \
  \
  \
 **S **\
