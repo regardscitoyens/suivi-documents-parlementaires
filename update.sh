@@ -60,6 +60,8 @@ update_file "https://www.senat.fr/fileadmin/Fichiers/Images/sgp/Comite_de_deonto
 
 update_file "https://www.senat.fr/fileadmin/Fichiers/Images/sgp/Declarations/Registre_des_deports.pdf" Sénat "Registre des déports" >> /tmp/load_documents_parl.tmp
 
+update_file "http://www.senat.fr/data/registre_depots/Registre_des_deports.csv" Sénat "Registre des déports" >> /tmp/load_documents_parl.tmp
+
 update_file "https://www.senat.fr/fileadmin/Fichiers/Images/sgp/Declarations/Classeur_Cadeaux_2018-2019.pdf" Sénat "Registre des cadeaux" >> /tmp/load_documents_parl.tmp
 
 update_file "https://www.senat.fr/fileadmin/Fichiers/Images/sgp/Declarations/Liste_deplacements_organismes_exterieurs_en_ligne.pdf" Sénat "Registre des invitations" >> /tmp/load_documents_parl.tmp
