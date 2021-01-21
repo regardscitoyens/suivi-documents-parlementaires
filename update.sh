@@ -48,7 +48,8 @@ update_file "http://www2.assemblee-nationale.fr/content/download/179918/1801507/
 
 update_file "http://www2.assemblee-nationale.fr/content/download/183338/1837494/version/1/file/Liste+Voyages_publiee_121219.pdf" AN "Registre des voyages" >> /tmp/load_documents_parl.tmp
 
-update_file "http://www2.assemblee-nationale.fr/content/download/183339/1837502/version/1/file/Liste+Dons+et+invitations_publiee_121219.pdf" AN "Registre des cadeaux" >> /tmp/load_documents_parl.tmp
+update_file "http://www2.assemblee-nationale.fr/content/download/310802/3015547/version/1/file/Liste+Dons+et+invitations_publi%C3%A9e_120620.pdf" AN "Registre des cadeaux" >> /tmp/load_documents_parl.tmp
+# http://www2.assemblee-nationale.fr/content/download/183339/1837502/version/1/file/Liste+Dons+et+invitations_publiee_121219.pdf
 
 
 #update_file "" AN "" >> /tmp/load_documents_parl.tmp
