@@ -22,7 +22,9 @@ function update_file {
   echo
 }
 
-git stash && git pull && git stash pop > /tmp/load_documents_parl.tmp
+git stash > /tmp/load_documents_parl.tmp
+git pull >> /tmp/load_documents_parl.tmp
+git stash pop >> /tmp/load_documents_parl.tmp
 
 update_file "http://www.assemblee-nationale.fr/connaissance/reglement.pdf" AN "Réglement" >> /tmp/load_documents_parl.tmp
 
